@@ -23,6 +23,5 @@
       "sizes": "192x192"
     }
   ],
-  "background_color": "#ffd464",
-  "start_url": "?launcher=true"
+  "background_color": "#ffd464"
 }
